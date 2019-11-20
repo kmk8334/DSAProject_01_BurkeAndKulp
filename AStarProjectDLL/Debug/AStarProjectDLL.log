@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AStarProjectDLL.cpp
+  dllmain.cpp
+  Graph.cpp
+  Vertex.cpp
+  Generating Code...
+     Creating library C:\Users\Kevin\source\repos\AStarPathfinding\Debug\MazeDllP2M3.lib and object C:\Users\Kevin\source\repos\AStarPathfinding\Debug\MazeDllP2M3.exp
+  AStarProjectDLL.vcxproj -> C:\Users\Kevin\source\repos\AStarPathfinding\Debug\MazeDllP2M3.dll
